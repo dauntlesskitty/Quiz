@@ -1,0 +1,9 @@
+4
+2:C:Who was Angola's first president?:questionPic\president.jpg:Alvaro Sobrinho:Jonas Savimbi:Agostinho Neto:Mamat McTrump
+3:B:Which of the following is the 2nd largest resources production in Angola?:questionPic\coal.jpg:questionPic\diamond.jpg:questionPic\soil.jpg:questionPic\gold.jpg
+1:A:Which is the official language of Angola?:Portuguese:Japanese:Assamese:Nepalese
+2:C:How many countries does Angola border?:questionPic\map.jpg:3:6:4:5
+
+
+
+

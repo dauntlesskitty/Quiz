@@ -1,0 +1,15 @@
+A01:Angola:candidate\a01.jpg:Emery
+A02:Angola:candidate\a02.jpg:Palmer
+A03:Angola:candidate\a03.jpg:Tina
+A04:Antigua:candidate\a04.jpg:Kay
+A05:Antigua:candidate\a05.jpg:Keli
+A06:Antigua:candidate\a06.jpg:Mangon
+A07:Argentina:candidate\a07.jpg:Joy
+A08:Argentina:candidate\a08.jpg:John
+A09:Argentina:candidate\a09.jpg:Dora
+A10:Armenia:candidate\a10.jpg:Ealyne
+A11:Armenia:candidate\a11.jpg:Cary
+A12:Armenia:candidate\a12.jpg:Tracy
+A13:Australia:candidate\a13.jpg:Steven
+A14:Australia:candidate\a14.jpg:Chiew
+A15:Australia:candidate\a15.jpg:Doty

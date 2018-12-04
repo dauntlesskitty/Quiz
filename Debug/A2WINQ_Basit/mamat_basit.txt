@@ -1,0 +1,12 @@
+3
+1:B:Who designed the Eiffel Tower?:Minah:Mamat:Joyah:Joy
+2:C:Where is this building located?:questionPic\klcc.jpg:Tokyo:Paris:Kuala Lumpur:USA
+3:B:Which is Anigo?:questionPic\klcc.jpg:questionPic\klcc.jpg:questionPic\klcc.jpg:questionPic\klcc.jpg
+
+//My part - Question about Australia
+
+4 
+1:A:What is the capital of Australia?:Canberra:Sydney:Melbourne:Brisbane	
+1:B:When was Olympic took pace in Australia in recent years?:1999:2000:2001:2002
+2:C:Which city this Australian landmark is located?:questionPic\SydneyOpera.jpg:Melbourne:Sydney:Canberra:Brisbane
+3:A:which animal is exclusively found in Australia?:questionPic\Kangaroo.jpg:questionPic\Koala.jpg:questionPic\Lion.jpg:questionPic\Moose.jpg

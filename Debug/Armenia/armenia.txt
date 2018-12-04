@@ -1,0 +1,5 @@
+4
+1:A:In which year did the Armenian population fall victim to systematic genocide?:1915:1948:1945:1920
+2:B:What is the name of the Armenian currency?:questionPic\currency.jpg:Drama:Dram:Drachma:Duma
+3:C:Which is the biggest lake?:questionPic\Lake_Akna.jpg:questionPic\Lake_Arpi.jpg:questionPic\Lake_Sevan.jpg:questionPic\Lake_Kari.jpg
+4:B:Which of the following states was Armenia a part of until 1991?:questionPic\russia.jpg:questionPic\sovietunion.jpg:questionPic\turkey.jpg:questionPic\poland.jpg

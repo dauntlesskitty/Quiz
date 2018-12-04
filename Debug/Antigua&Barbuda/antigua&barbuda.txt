@@ -1,0 +1,5 @@
+4
+1:B:Antigua and Barbuda belong to which group of islands?:The Maldives:The Leeward Islands:The Balearics:The Azores
+2:D:What is the chief source of revenue for the Islands of Antigua and Barbuda?:Agriculture:Banking:Manufacturing:Tourism
+3:B:What is the name of Antigua and Barbuda's national flower?:questionPic\agave.jpg:Aster:Agave Karatto:Begonia:Asiatic Lily
+4:A:Which is the national dish for Antigua and Barbuda?:questionPic\fungee.jpg:questionPic\poutine.jpg:questionPic\beefnoodle.jpg:questionPic\stew.jpg

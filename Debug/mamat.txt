@@ -1,0 +1,21 @@
+20
+1:A:In which year did the Armenian population fall victim to systematic genocide?:1915:1948:1945:1920
+2:B:What is the name of the Armenian currency?:questionPic\currency.jpg:Drama:Dram:Drachma:Duma
+3:C:Which is the biggest lake?:questionPic\Lake_Akna.jpg:questionPic\Lake_Arpi.jpg:questionPic\Lake_Sevan.jpg:questionPic\Lake_Kari.jpg
+3:B:Which of the following states was Armenia a part of until 1991?:questionPic\russia.jpg:questionPic\sovietunion.jpg:questionPic\turkey.jpg:questionPic\poland.jpg
+1:A:What is the capital of Australia?:Canberra:Sydney:Melbourne:Brisbane	
+1:B:When was Olympic took pace in Australia in recent years?:1999:2000:2001:2002
+2:C:Which city this Australian landmark is located?:questionPic\SydneyOpera.jpg:Melbourne:Sydney:Canberra:Brisbane
+3:A:which animal is exclusively found in Australia?:questionPic\Kangaroo.jpg:questionPic\Koala.jpg:questionPic\Lion.jpg:questionPic\Moose.jpg
+2:C:Who was Angola's first president?:questionPic\president.jpg:Alvaro Sobrinho:Jonas Savimbi:Agostinho Neto:Mamat McTrump
+3:B:Which of the following is the 2nd largest resources production in Angola?:questionPic\coal.jpg:questionPic\diamond.jpg:questionPic\soil.jpg:questionPic\gold.jpg
+1:A:Which is the official language of Angola?:Portuguese:Japanese:Assamese:Nepalese
+2:C:How many countries does Angola border?:questionPic\map.jpg:3:6:4:5
+2:A:What is the forested lowland in the north of Argentina called?:questionPic\chaco.jpg:Gran Chaco:Madagascar:Arabuko-Sokoke:Hallerbos
+3:C:Which official logo represents Argentina national football team?:questionPic\logo1.jpg:questionPic\logo2.jpg:questionPic\logo3.jpg:questionPic\logo4.jpg
+2:D:What is the highest mountain in Argentina called?:questionPic\agMount.jpg:Blanca Peak:Mauna Kea:Denali:Aconcagua
+1:B:Who is the first woman to be elected as the President of Argentina?:Eva Peron:Cristina Fernandez de Kirchner:Corazin Aquino:Isabella Mamat Peron
+1:B:Antigua and Barbuda belong to which group of islands?:The Maldives:The Leeward Islands:The Balearics:The Azores
+1:D:What is the chief source of revenue for the Islands of Antigua and Barbuda?:Agriculture:Banking:Manufacturing:Tourism
+2:B:What is the name of Antigua and Barbuda's national flower?:questionPic\agave.jpg:Aster:Agave Karatto:Begonia:Asiatic:Lily
+3:A:Which is the national dish for Antigua and Barbuda?:questionPic\fungee.jpg:questionPic\poutine.jpg:questionPic\beefnoodle.jpg:questionPic\stew.jpg
